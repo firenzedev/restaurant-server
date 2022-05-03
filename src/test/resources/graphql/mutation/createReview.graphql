@@ -1,0 +1,10 @@
+mutation {
+    createReview(input: {restaurantId: "123", message: "Content", rating: 3}) {
+        id
+        message
+        rating
+        restaurant {
+            id
+        }
+    }
+}

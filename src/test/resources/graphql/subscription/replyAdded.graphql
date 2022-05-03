@@ -1,0 +1,6 @@
+subscription {
+    replyAdded(reviewId: "123") {
+        id
+        message
+    }
+}
