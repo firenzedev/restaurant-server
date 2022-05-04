@@ -1,4 +1,4 @@
-# Restaurants server
+# Restaurant server
 
 A simple GraphQL server developed in Java with Spring Boot and the
 [GraphQL Kickstart library](https://www.graphql-java-kickstart.com/).
