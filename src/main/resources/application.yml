@@ -11,7 +11,7 @@ graphql:
     cors:
       allowed-origins:
         - 'http://localhost:3000'
-        - 'https://restaurant-client-seven.vercel.app'
+        - 'https://firenzedev-restaurant.vercel.app/'
       allow-credentials: true
       allowed-methods:
         - '*'
